@@ -92,16 +92,11 @@ Na tabela abaixo encontra-se todo o material produzido e enviado pelos alunos. A
 
 ### BibTeX
 
+> ```latex
 > @misc{Tiago_Conteudo_didatico_para_2024,
-> 
 > author = {Tiago, Almeida},
-> 
 > month = dec,
-> 
 > title = {{Conteúdo didático para a manutenção preditiva e corretiva de computadores}},
-> 
 > url = {https://lcomp-mmc.github.io/PE/},
-> 
 > year = {2024}
-> 
-> }
+> } ```
