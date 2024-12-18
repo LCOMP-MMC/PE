@@ -29,7 +29,7 @@ Em todos os casos, os discentes produziram e entregaram ao professor o plano de 
 - Avaliação -- formas usadas pelo professor para considerar a real assimilação do conteúdo por parte do aluno;
 - Referências -- referências utilizadas como fonte para a elaboração do plano de aula: livros, outros materiais impressos e recursos digitais.
 
-> *** Os planos de ensino não estão disponibilizados nesse repositório ***
+> ***Os planos de ensino não estão disponibilizados nesse repositório.***
 
 ## Resultado da ação extensionista
 
@@ -93,9 +93,15 @@ Na tabela abaixo encontra-se todo o material produzido e enviado pelos alunos. A
 ### BibTeX
 
 > @misc{Tiago_Conteudo_didatico_para_2024,
+> 
 > author = {Tiago, Almeida},
+> 
 > month = dec,
+> 
 > title = {{Conteúdo didático para a manutenção preditiva e corretiva de computadores}},
+> 
 > url = {https://lcomp-mmc.github.io/PE/},
+> 
 > year = {2024}
+> 
 > }
