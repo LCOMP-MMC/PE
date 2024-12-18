@@ -1,3 +1,42 @@
+# Conteúdo didático para a manutenção preditiva e corretiva de computadores
+
+Dado a importância de ações de extensão universitárias que aproximem a universidade às comunidades de maneira que agregue valor à sociedade, esse projeto de extensão está inserida na disciplina de Montagem e Manutenção de Computadores do curso de Licenciatura em Computação da Universidade Aberta do Brasil (UaB) e Universidade Federal do Tocantins (UFT). Essa ação é requisito indispensável para integralização dos créditos na disciplina. O foco central da ação é a disseminação e promoção da computação nas comunidade locais, de maneira remota ou não, com ênfase na manutenção de computadores em quesitos básicos. Quesitos que podem ajudar às comunidades e problemas do dia a dia ou que despertem o interesse para uma formação digital dentro das comunidades. Além de ajudar na formação prática e didáticos dos discentes do curso de Licenciatura em Computação. 
+
+## Descrição da ação
+
+A execução do projeto foi a produção de material didático visando à promoção e divulgação da computação, com foco nos conteúdos abordados na disciplina de Montagem e Manutenção de Computadores.
+
+Em relação ao conteúdo abordado na disciplina, destaca-se a seguinte ementa constante no projeto pedagógico do curso de Licenciatura em Computação:
+
+> *Unidades de medida e termos técnicos da informática. A eletricidade: corrente, tensão, resistência, energia estática, aterramento, polaridade. Histórico e evolução dos computadores. Componentes do computador: barramentos, memórias, processador, chipset, vídeo, portas paralela e serial. Ferramentas de teste e manutenção. Configuração de setup. Montagem, instalação e manutenção de componentes e periféricos.*
+
+Portanto, trata-se de conteúdo introdutório já que o foco é a formação de professores em computação. Logo, a ação será a elaboração de material didático para a reprodução na comunidade em que o aluno está inserido ou por meio da internet, proporcionando a divulgação em massa do conteúdo. Sempre de maneira gratuita. 
+
+Como material didático, os discentes terão as seguintes opções de material:
+
+> - Uma aula expositiva de 8 oito à 15 minutos. Nessa opção a aula foi produzida por somente um ou dois alunos. A opção de aula foi gravada e disponibilizada online por meio de plataformas públicas e gratuitas, no caso o YouTube;
+> - A produção de uma apostila referente à uma aula com tamanho de 5 à 25 páginas no formato fornecido no link: [UFTReport](https://github.com/UFTeX/UFTReport). Nessa opção o material foi produzido com 2 à 4 alunos.
+
+Em todos os casos, os discentes produziram e entregaram ao professor o plano de ensino completo. Os discentes preencheram o plano de ensino de acordo com:
+
+- Tema -- tema específico que será abordado na aula;
+- Competências específicas -- é encontrado na BNCC antes da habilidade;
+- Habilidades -- código da habilidade que será desenvolvida no tema escolhido e que é encontrado na BNCC;
+ - Objetivos -- aquilo que o professor deseja que os alunos aprendam com a aula;
+- Conteúdo -- está diretamente relacionado ao tema, pois é subordinado a ele, e ao objetivo da aula;
+- Recursos didáticos -- materiais de apoio que auxiliam o professor de forma pedagógica, facilitando o desenvolver da aula;
+- Metodologia -- métodos escolhidos pelo professor para orientar o aprendizado do aluno, ou seja, nos caminhos que ele escolherá para conduzir a aula;
+- Avaliação -- formas usadas pelo professor para considerar a real assimilação do conteúdo por parte do aluno;
+- Referências -- referências utilizadas como fonte para a elaboração do plano de aula: livros, outros materiais impressos e recursos digitais.
+
+> *** Os planos de ensino não estão disponibilizados nesse repositório ***
+
+## Resultado da ação extensionista
+
+Na tabela abaixo encontra-se todo o material produzido e enviado pelos alunos. A identificação é feita apenas pelo número do grupo, tipo de material produzido, tema do material, tipo de manutenção abordada e por fim o link com a disponibilização do material (vídeo aula ou apostila).
+
+> Caso você assista ou use esse material, sinta-se a vontade para responder nosso questionário de avaliação disponibilizado no link: [https://forms.gle/UJx4LMv94Tk53ynY6](https://forms.gle/UJx4LMv94Tk53ynY6).
+
 |Grupo|Tipo       |Tema                                                                                                                                                                                                                                                                                                                                         |Manutenção|Link                                                                    |
 |-----|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------|
 |1    |Apostila   |Troca de memória RAM com defeito                                                                                                                                                                                                                                                                                                             |Corretiva |[Apostila](apostilas/grupo%201.pdf)                                     |
@@ -47,3 +86,7 @@
 |54   |Aula online|Manutenção de Hardware de microcomputadores                                                                                                                                                                                                                                                                                                  |Ambos     |[Slides](apostilas/grupo%2054.pdf)                                      |
 |55   |Apostila   |MONTAGEM E MANUTENÇÃO DE COMPUTADORES                                                                                                                                                                                                                                                                                                        |Ambos     |[Apostila](apostilas/grupo%2055.pdf)                                    |
 |56   |Aula online|Aprenda como Baixar música pelo Computador e como transferir para um pen drive!!! Passo a passo!                                                                                                                                                                                                                                             |Ambos     |[Vídeo aula](https://youtu.be/d9uN5pMt8BI?si=jOYHQtCVhR43FqRT)          |
+
+
+## Como citar esse repositório
+
