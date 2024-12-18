@@ -10,10 +10,11 @@ date-released: 2024-18-12
 url: "https://lcomp-mmc.github.io/PE/"
 preferred-citation:
   type: data
-authors:
-  - family-names: Tiago
-    given-names: Almeida
-    orcid: https://orcid.org/0000-0002-0420-4188
+  authors:
+    - family-names: Tiago
+      given-names: Almeida
+      orcid: https://orcid.org/0000-0002-0420-4188
   month: 12
   title: "Conteúdo didático para a manutenção preditiva e corretiva de computadores"
+  url: "https://lcomp-mmc.github.io/PE/"
   year: 2024
