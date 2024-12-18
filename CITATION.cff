@@ -1,4 +1,5 @@
 cff-version: 1.2.0
+message: "If you use this repo, please cite it as below."
 authors:
   - family-names: Tiago
     given-names: Almeida
@@ -6,3 +7,6 @@ authors:
 title: "Conteúdo didático para a manutenção preditiva e corretiva de computadores"
 version: 1.0.0
 date-released: 2024-18-12
+url: "https://lcomp-mmc.github.io/PE/"
+preferred-citation:
+  type: data
